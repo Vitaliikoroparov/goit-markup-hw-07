@@ -1,24 +1,24 @@
-.customers__list {
+.customers-list {
   display: flex;
   justify-content: center;
 }
 
-.customers__title {
+.customers-title {
   margin-bottom: 50px;
 }
 
-.customers__item {
+.customers-list__item {
   width: 170px;
   height: 92px;
 
   margin-right: 30px;
 }
 
-.customers__item:last-child {
+.customers-list__item:last-child {
   margin-right: 0;
 }
 
-.customers__link {
+.customers-list__link {
   width: 100%;
   height: 100%;
   border: 1px solid #afb1b8;
